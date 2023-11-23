@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage
+
+# IDE
+.idea/
+
+# Compiled binary addons
+build/Release
+
+# Dependency directories
+jspm_packages/
+typings/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+.pnp.*
+.pnp.js
+
+# dotenv environment variables file
+.env
+.env.local
+.env.*.local
+.env.test
+.env.test.local
+
+# vscode
+.vscode/
