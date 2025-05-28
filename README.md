@@ -42,16 +42,7 @@ npm install
 ## 🛡️ Environment Variables
 
 PORT=5000
-DB_SERVERNAME=your_db_servername
-DB_NAME=your_db_name
-DB_USERNAME=your_db_username
-DB_PASSWORD=your_db_password
-MAIL_PASSWORD=your_mail_password
-SESSION_SECRET_KEY=your_session_secret_key
-FACEBOOK_APP_ID=your_facebook_app_id
-FACEBOOK_APP_SECRET=your_facebook_app_secret
-JWT_ACCESSECRETKEY=your_jwt_access_secret_key
-JWT_REFRESHSECRETKEY=your_jwt_refresh_secret_key
+MONGO_URI:your_mongo_uri
 
 ---
 ## ▶️ Run the App
