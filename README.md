@@ -1,6 +1,6 @@
 # 📚 Library Express App
 
-**Library Express App** is a web-based library management system designed to help manage books, authors, genres, and book instances. It supports full CRUD operations for each entity and provides a structured interface using Pug templates and Express.js.
+**Library Express App** is a web-based library management system designed to help manage books, authors, genres, and book instances. It supports full CRUD operations for each entity and provides a structured interface using Pug templates and Express.js. 
 
 ---
 
